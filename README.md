@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smartjaganrao
-- 👀 I’m interested in web development & android deveopment
+- 👀 I’m interested in web development & android development
 - 🌱 I’m currently learning in react js
 - 📫 smartjaganrao@gmail.com
 
