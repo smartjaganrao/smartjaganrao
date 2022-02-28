@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smartjaganrao
 - 👀 I’m interested in web development & android development
-- 🌱 I’m react js Developer
+- 🌱 I’m React js Developer
 - 📫 smartjaganrao@gmail.com
 
 <!---
