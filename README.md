@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @smartjaganrao
-- 👀 I’m interested in web development & android development
-- 🌱 I’m React js Developer
-- 📫 smartjaganrao@gmail.com
-
 About me
-I'm a full stack developer. I like to work with React, Javascript, Python, PHP & C#. I'm a open-source development enthusiast, an instructor and a freelancer.
+
+- 👋 Hi, I'm a full stack developer. I like to work with React, Javascript, Python, PHP & C#. I'm a open-source development enthusiast, an instructor and a freelancer.
+- 📫 smartjaganrao@gmail.com
 
 "Code until you find your solution"! 👋
 
