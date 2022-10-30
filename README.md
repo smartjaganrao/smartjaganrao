@@ -8,11 +8,9 @@ About me
 
 React App:
 
-Live Weather React JS App using Weather API /n
-link: https://react-hook-forms.netlify.app/
+Live Weather React JS: https://react-hook-forms.netlify.app/
 
-Form Validation Using React Hook Form & Yup Library /n
-link: https://react-hook-forms.netlify.app/
+Form Validation React Js: https://react-hook-forms.netlify.app/
 
 <!---
 smartjaganrao/smartjaganrao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
