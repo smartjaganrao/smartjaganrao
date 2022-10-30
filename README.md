@@ -8,10 +8,10 @@ About me
 
 React App:
 
-Live Weather React JS App using Weather API
+Live Weather React JS App using Weather API /n
 link: https://react-hook-forms.netlify.app/
 
-Form Validation Using React Hook Form & Yup Library
+Form Validation Using React Hook Form & Yup Library /n
 link: https://react-hook-forms.netlify.app/
 
 <!---
