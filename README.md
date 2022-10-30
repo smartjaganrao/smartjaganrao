@@ -6,7 +6,7 @@ About me
 "Code until you find your solution"! 👋
 
 
-React App:
+Mini Projects:
 
 Live Weather React JS: https://react-hook-forms.netlify.app/
 
