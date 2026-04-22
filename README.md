@@ -4,7 +4,7 @@
 ⚡ Passionate about building scalable frontend systems and AI-powered applications
 🚀 Currently working on modern web apps with a focus on performance, usability, and clean architecture
 
-📍 Chennai, India | Open to new opportunities (₹18–26 LPA)
+📍 Chennai, India | Open to new opportunities (₹20–26 LPA)
 
 ---
 
