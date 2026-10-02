@@ -139,9 +139,9 @@ Personal financial advisor dashboard — ₹ formatting, financial health score 
   <a href="https://github.com/smartjaganrao/TN-PUBLIC-PULSE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smartjaganrao&repo=TN-PUBLIC-PULSE&theme=tokyonight&hide_border=true&description_lines_count=2" alt="TN-PUBLIC-PULSE"/></a>
   <a href="https://github.com/smartjaganrao/Movie-Database-Mini"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smartjaganrao&repo=Movie-Database-Mini&theme=tokyonight&hide_border=true&description_lines_count=2" alt="Movie-Database-Mini"/></a>
   <a href="https://github.com/smartjaganrao/Employee-Dasboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smartjaganrao&repo=Employee-Dasboard&theme=tokyonight&hide_border=true&description_lines_count=2" alt="Employee-Dasboard"/></a>
-  <a href="https://github.com/smartjaganrao/Live-Weather-Application-in-React-JS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smartjaganrao&repo=Live-Weather-Application-in-React-JS&theme=tokyonight&hide_border=true&description_lines_count=2" alt="Live-Weather-Application-in-React-JS"/></a>
+  <a href="https://github.com/smartjaganrao/lucky-dangle-hybrid"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smartjaganrao&repo=lucky-dangle-hybrid&theme=tokyonight&hide_border=true&description_lines_count=2" alt="lucky-dangle-hybrid"/></a>
 </p>
-<p align="center">More: <a href="https://github.com/smartjaganrao/Advance-Javascript-Examples">Advanced JS Examples</a> · <a href="https://github.com/smartjaganrao?tab=repositories">all repositories →</a></p>
+<p align="center">More: <a href="https://github.com/smartjaganrao/Advance-Javascript-Examples">Advanced JS Examples</a> · <a href="https://github.com/smartjaganrao/Live-Weather-Application-in-React-JS">Live Weather App</a> · <a href="https://github.com/smartjaganrao?tab=repositories">all repositories →</a></p>
 
 ---
 
