@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/smartjaganrao">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=61DAFB&center=true&vCenter=true&width=640&lines=Building+enterprise+React+apps+for+banking;Shipping+AI-powered+SaaS+products;Teaching+React+with+real-world+scenarios;React+%2B+AI+%3D+my+playground+%F0%9F%9A%80" alt="Typing tagline"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=61DAFB&center=true&vCenter=true&width=640&lines=Building+enterprise+React+apps+for+banking;Building+AI-powered+products;Teaching+React+with+real-world+scenarios;React+%2B+AI+%3D+my+playground+%F0%9F%9A%80" alt="Typing tagline"/>
   </a>
 </p>
 
@@ -48,22 +48,6 @@ Shipping my own AI products alongside my day job
 ## 🔨 What I'm Building
 
 <table>
-<tr>
-<td colspan="2" valign="top">
-
-### 🎙 JavihAI — AI Interview Preparation Platform &nbsp; <a href="https://javihai.in"><img src="https://img.shields.io/badge/LIVE-javihai.in-10B981?style=flat-square&logo=vercel&logoColor=white" alt="Live"/></a>
-A full SaaS product I build and run end to end that helps job seekers practise and prepare for interviews — a desktop practice app plus a **Next.js** web app for sign-in, **Razorpay** billing, customer dashboard and app downloads, and an internal **admin panel** for users, support tickets, analytics and audit logs. SEO content pages, CI and auto-deploys included.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq%20LLM-F55036?style=flat-square&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-&nbsp;→ [web app](https://github.com/smartjaganrao/ai-interview-landing) · [admin panel](https://github.com/smartjaganrao/ai-interview-admin)
-
-</td>
-</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -152,12 +136,12 @@ Personal financial advisor dashboard — ₹ formatting, financial health score 
 ## 📂 Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/smartjaganrao/ai-interview-landing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smartjaganrao&repo=ai-interview-landing&theme=tokyonight&hide_border=true&description_lines_count=2" alt="ai-interview-landing"/></a>
-  <a href="https://github.com/smartjaganrao/ai-interview-admin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smartjaganrao&repo=ai-interview-admin&theme=tokyonight&hide_border=true&description_lines_count=2" alt="ai-interview-admin"/></a>
   <a href="https://github.com/smartjaganrao/TN-PUBLIC-PULSE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smartjaganrao&repo=TN-PUBLIC-PULSE&theme=tokyonight&hide_border=true&description_lines_count=2" alt="TN-PUBLIC-PULSE"/></a>
   <a href="https://github.com/smartjaganrao/Movie-Database-Mini"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smartjaganrao&repo=Movie-Database-Mini&theme=tokyonight&hide_border=true&description_lines_count=2" alt="Movie-Database-Mini"/></a>
+  <a href="https://github.com/smartjaganrao/Employee-Dasboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smartjaganrao&repo=Employee-Dasboard&theme=tokyonight&hide_border=true&description_lines_count=2" alt="Employee-Dasboard"/></a>
+  <a href="https://github.com/smartjaganrao/Live-Weather-Application-in-React-JS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smartjaganrao&repo=Live-Weather-Application-in-React-JS&theme=tokyonight&hide_border=true&description_lines_count=2" alt="Live-Weather-Application-in-React-JS"/></a>
 </p>
-<p align="center">More: <a href="https://github.com/smartjaganrao/Employee-Dasboard">Employee Dashboard</a> · <a href="https://github.com/smartjaganrao/Live-Weather-Application-in-React-JS">Live Weather App</a> · <a href="https://github.com/smartjaganrao/Advance-Javascript-Examples">Advanced JS Examples</a> · <a href="https://github.com/smartjaganrao?tab=repositories">all repositories →</a></p>
+<p align="center">More: <a href="https://github.com/smartjaganrao/Advance-Javascript-Examples">Advanced JS Examples</a> · <a href="https://github.com/smartjaganrao?tab=repositories">all repositories →</a></p>
 
 ---
 
