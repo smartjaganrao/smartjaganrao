@@ -135,8 +135,8 @@ Personal financial advisor dashboard — ₹ formatting, financial health score 
   <a href="https://github.com/smartjaganrao/Advance-Javascript-Examples"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smartjaganrao&repo=Advance-Javascript-Examples&theme=tokyonight&hide_border=true" alt="Advance-Javascript-Examples"/></a>
   <a href="https://github.com/smartjaganrao/Employee-Dasboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smartjaganrao&repo=Employee-Dasboard&theme=tokyonight&hide_border=true" alt="Employee-Dasboard"/></a>
   <a href="https://github.com/smartjaganrao/Live-Weather-Application-in-React-JS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smartjaganrao&repo=Live-Weather-Application-in-React-JS&theme=tokyonight&hide_border=true" alt="Live-Weather-Application-in-React-JS"/></a>
-  <a href="https://github.com/smartjaganrao/product-listing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smartjaganrao&repo=product-listing&theme=tokyonight&hide_border=true" alt="product-listing"/></a>
 </p>
+<p align="center">+ <a href="https://github.com/smartjaganrao/product-listing">product-listing</a> · <a href="https://github.com/smartjaganrao?tab=repositories">all repositories →</a></p>
 
 ---
 
