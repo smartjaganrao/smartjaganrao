@@ -49,24 +49,42 @@ Shipping my own AI products alongside my day job
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+### 🎙 JavihAI — AI Interview Assistant &nbsp; <a href="https://javihai.in"><img src="https://img.shields.io/badge/LIVE-javihai.in-10B981?style=flat-square&logo=vercel&logoColor=white" alt="Live"/></a>
+A full SaaS product I build and run end to end — a desktop AI interview assistant plus a **Next.js** web app for sign-in, **Razorpay** billing, customer dashboard and app downloads, and an internal **admin panel** for users, support tickets, analytics and audit logs. SEO content pages, CI and auto-deploys included.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq%20LLM-F55036?style=flat-square&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+&nbsp;→ [web app](https://github.com/smartjaganrao/ai-interview-landing) · [admin panel](https://github.com/smartjaganrao/ai-interview-admin)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗳 Tamil Pulse
+AI-powered public opinion platform for Tamil Nadu 2026 — built with Gemini AI.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Gemini](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)<br/>
+<a href="https://tn-public-pulse.vercel.app"><img src="https://img.shields.io/badge/status-live-10B981?style=flat-square" alt="Live"/></a>
+&nbsp;[code](https://github.com/smartjaganrao/TN-PUBLIC-PULSE)
+
+</td>
 <td width="50%" valign="top">
 
 ### 📸 Event AI
 AI SaaS for event & wedding photographers in India — **Smart Album AI** curation and **Find Me** guest-selfie search.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![AI](https://img.shields.io/badge/AI%2FML-7C3AED?style=flat-square&logo=openai&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white)<br/>
-![Status](https://img.shields.io/badge/status-in%20progress-F59E0B?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎙 Javih AI
-AI interview assistant that helps candidates prepare for and perform in interviews.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![LLM](https://img.shields.io/badge/LLM%20APIs-412991?style=flat-square&logo=openai&logoColor=white)<br/>
 ![Status](https://img.shields.io/badge/status-in%20progress-F59E0B?style=flat-square)
 
 </td>
@@ -74,8 +92,8 @@ AI interview assistant that helps candidates prepare for and perform in intervie
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 Smart Q Flow
-Patient queue management for clinics — role-based dashboards (Admin, Doctor, Reception) and real-time tracking.
+### 🏥 Clinic Q
+Patient queue management (web + mobile) — role-based dashboards for Admin, Doctor and Reception with real-time tracking.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)<br/>
@@ -105,13 +123,15 @@ Personal financial advisor dashboard — ₹ formatting, financial health score 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,redux,html,css,tailwind,nodejs&theme=dark" alt="Frontend stack"/><br/><br/>
-  <img src="https://skillicons.dev/icons?i=jest,git,github,vercel,vscode,figma,postman&theme=dark" alt="Tooling"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css&theme=dark" alt="Frontend stack"/><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase,vite,jest,git,githubactions,vercel,vscode&theme=dark" alt="Tooling"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Groq%20LLM-F55036?style=for-the-badge&logoColor=white" alt="Groq"/>
+  <img src="https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" alt="Razorpay"/>
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="React Query"/>
   <img src="https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white" alt="Okta"/>
 </p>
@@ -129,14 +149,15 @@ Personal financial advisor dashboard — ₹ formatting, financial health score 
 
 ---
 
-## 📂 Learning Repos
+## 📂 Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/smartjaganrao/Advance-Javascript-Examples"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smartjaganrao&repo=Advance-Javascript-Examples&theme=tokyonight&hide_border=true" alt="Advance-Javascript-Examples"/></a>
-  <a href="https://github.com/smartjaganrao/Employee-Dasboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smartjaganrao&repo=Employee-Dasboard&theme=tokyonight&hide_border=true" alt="Employee-Dasboard"/></a>
-  <a href="https://github.com/smartjaganrao/Live-Weather-Application-in-React-JS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smartjaganrao&repo=Live-Weather-Application-in-React-JS&theme=tokyonight&hide_border=true" alt="Live-Weather-Application-in-React-JS"/></a>
+  <a href="https://github.com/smartjaganrao/ai-interview-landing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smartjaganrao&repo=ai-interview-landing&theme=tokyonight&hide_border=true&description_lines_count=2" alt="ai-interview-landing"/></a>
+  <a href="https://github.com/smartjaganrao/ai-interview-admin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smartjaganrao&repo=ai-interview-admin&theme=tokyonight&hide_border=true&description_lines_count=2" alt="ai-interview-admin"/></a>
+  <a href="https://github.com/smartjaganrao/TN-PUBLIC-PULSE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smartjaganrao&repo=TN-PUBLIC-PULSE&theme=tokyonight&hide_border=true&description_lines_count=2" alt="TN-PUBLIC-PULSE"/></a>
+  <a href="https://github.com/smartjaganrao/Movie-Database-Mini"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smartjaganrao&repo=Movie-Database-Mini&theme=tokyonight&hide_border=true&description_lines_count=2" alt="Movie-Database-Mini"/></a>
 </p>
-<p align="center">+ <a href="https://github.com/smartjaganrao/product-listing">product-listing</a> · <a href="https://github.com/smartjaganrao?tab=repositories">all repositories →</a></p>
+<p align="center">More: <a href="https://github.com/smartjaganrao/Employee-Dasboard">Employee Dashboard</a> · <a href="https://github.com/smartjaganrao/Live-Weather-Application-in-React-JS">Live Weather App</a> · <a href="https://github.com/smartjaganrao/Advance-Javascript-Examples">Advanced JS Examples</a> · <a href="https://github.com/smartjaganrao?tab=repositories">all repositories →</a></p>
 
 ---
 
