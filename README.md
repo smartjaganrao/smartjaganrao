@@ -51,8 +51,8 @@ Shipping my own AI products alongside my day job
 <tr>
 <td colspan="2" valign="top">
 
-### 🎙 JavihAI — AI Interview Assistant &nbsp; <a href="https://javihai.in"><img src="https://img.shields.io/badge/LIVE-javihai.in-10B981?style=flat-square&logo=vercel&logoColor=white" alt="Live"/></a>
-A full SaaS product I build and run end to end — a desktop AI interview assistant plus a **Next.js** web app for sign-in, **Razorpay** billing, customer dashboard and app downloads, and an internal **admin panel** for users, support tickets, analytics and audit logs. SEO content pages, CI and auto-deploys included.
+### 🎙 JavihAI — AI Interview Preparation Platform &nbsp; <a href="https://javihai.in"><img src="https://img.shields.io/badge/LIVE-javihai.in-10B981?style=flat-square&logo=vercel&logoColor=white" alt="Live"/></a>
+A full SaaS product I build and run end to end that helps job seekers practise and prepare for interviews — a desktop practice app plus a **Next.js** web app for sign-in, **Razorpay** billing, customer dashboard and app downloads, and an internal **admin panel** for users, support tickets, analytics and audit logs. SEO content pages, CI and auto-deploys included.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
